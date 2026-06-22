@@ -1,0 +1,6 @@
+{
+  "name": "SafeHer AI",
+  "description": "A premium, modern Full-Stack Women's Commuting Safety Companion application featuring dynamic safety routing, journey simulation, AI safety assistant, text-to-speech, and voice SOS triggers.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
